@@ -13,5 +13,8 @@
   "hubot-save-links",
   "hubot-react",
   "hubot-d20",
-  "hubot-newrelic2"
+  "hubot-newrelic2",
+  "hubot-bitbucket",
+  "hubot-loudbot"
+
 ]
