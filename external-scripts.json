@@ -11,5 +11,7 @@
   "hubot-shipit",
   "hubot-catfacts",
   "hubot-save-links",
-  "hubot-basecamp"
+  "hubot-react",
+  "hubot-d20",
+  "hubot-newrelic2"
 ]
